@@ -1,6 +1,5 @@
 <?php
 
-namespace Sepium;
 
 class BaseController
 {

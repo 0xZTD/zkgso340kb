@@ -1,6 +1,6 @@
 <?php
-use Sepium\Controllers\UserController;
-use Sepium\Router;
+
+use Controllers\UserController;
 
 $router = new Router();
 $router->register('/', UserController::class, 'index');

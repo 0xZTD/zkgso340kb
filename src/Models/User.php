@@ -1,6 +1,6 @@
 <?php
 
-namespace Sepium\Models;
+namespace Models;
 
 class User
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace Sepium\Controllers;
+namespace Controllers;
 
-use Sepium\BaseController;
-use Sepium\Models\User;
+use BaseController;
+use Models\User;
 
 class UserController extends BaseController
 {
